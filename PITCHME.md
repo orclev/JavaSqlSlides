@@ -5,3 +5,5 @@
 ---?include=jdbc.md
 
 ---?include=hibernate.md
+
+---?include=jooq.md

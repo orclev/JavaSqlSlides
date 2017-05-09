@@ -12,5 +12,3 @@ Fundamentally we can decompose this basic problem into two sub-problems. <!-- .e
 
 1. How do I query the DB to get the data I want. <!-- .element: class="fragment" -->
 2. How do I take the results of that query and convert those Records into Objects. <!-- .element: class="fragment" -->
-
----?include=jdbc.md

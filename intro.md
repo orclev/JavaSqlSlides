@@ -8,7 +8,7 @@
 
 +++
 
-Fundamentally we can decompose this basic problem into two sub-problems. <!-- .element: class="fragment" -->
+Fundamentally we can decompose this basic problem into two sub-problems.
 
 1. How do I query the DB to get the data I want. <!-- .element: class="fragment" -->
 2. How do I take the results of that query and convert those Records into Objects. <!-- .element: class="fragment" -->
